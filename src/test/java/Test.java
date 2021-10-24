@@ -13,11 +13,11 @@ public class Test {
         System.out.println("Original List of Companies : " + listCompany);
 
         //Print Filtered List Of Companies
-        //System.out.println("Filtered List of Companies : " + filterCompanies());
+        System.out.println("Filtered List of Companies : " + filterCompanies());
 
         //Print List Of Companies in Alphabetical Order
         sortCompaniesAlpha();
-        //System.out.println("List of Companies in Alphabetical Order : " + listCompany);
+        System.out.println("List of Companies in Alphabetical Order : " + listCompany);
 
         //Print List Of Companies in Reverse Alphabetical Order
         sortCompaniesReverseAlpha();
